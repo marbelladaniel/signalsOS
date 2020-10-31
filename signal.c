@@ -22,6 +22,6 @@ int main(int argc, char * argv[])
     printf("Turing was right!\n");
     t = 0;
     
-  }//busy wait for signal to be delivered
+  }//busy, wait for signal 
    return 0;//never reached
 }
